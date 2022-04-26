@@ -1,6 +1,8 @@
 ### Perfil Académico de Sofía
 
-#### Información
+
+#### Datos personales
+
 
 **Nombre:**
 María Sofía Moya Bonilla
@@ -18,13 +20,13 @@ Universidad de Costa Rica
 
 **Estudia:** 
 
-* Geografía 
+* Geografía en la [Escuela de Geografía UCR](https://www.geografia.fcs.ucr.ac.cr/)
 
-![Imagen]*(https://www.pngmart.com/files/7/Geography-Transparent-PNG.png)
+![_Imagen_](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDImCl8YMKwLCTrw4SL74OaBBQqcS_skaDBw&usqp=CAU)
 
 * Diseño Gráfico
 
-![Imagen]*(https://e7.pngegg.com/pngimages/452/474/png-clipart-graphic-designer-design-web-design-logo.png)
+![_Imagen_](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo7VVMFf3Bhaqi2FB_HVzZGzaMOecErCTu-Q&usqp=CAU)
 
 **Cursos matriculados:** 
 
