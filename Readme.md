@@ -1,7 +1,7 @@
 ### Perfil Académico de Sofía
 
 
-#### Datos personales
+*Datos personales*
 
 
 **Nombre:**
@@ -13,7 +13,7 @@ Costarricense
 **Edad:** 
 19 años
 
-**Institución:**
+**Institución a la que pertenece:**
 Universidad de Costa Rica 
 
 [¡Conocé la U aquí!](https://www.ucr.ac.cr/)
@@ -28,10 +28,22 @@ Universidad de Costa Rica
 
 ![_Imagen_](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo7VVMFf3Bhaqi2FB_HVzZGzaMOecErCTu-Q&usqp=CAU)
 
-**Cursos matriculados:** 
+**Cursos matriculados I-2022:** 
 
 1. Geografía Cultural
 2. Procesamiento de Datos Geográficos
 3. Fundamentos de Geología
 4. Química GeneralI
 5. Laboratorio de Química General I
+
+**Algunos cursos aprobados:**
+
+- Matemática para Geografía
+- Pensamiento Geográfico
+- Cartografía y Técnicas de Campo
+- Fundamentos de Geografía
+
+**Áreas de interés:**
+
+- Ambiental
+- Artística
