@@ -13,7 +13,7 @@ Costarricense
 **Edad:** 
 19 años
 
-**Universidad:**
+**Institución:**
 Universidad de Costa Rica 
 
 [¡Conocé la U aquí!](https://www.ucr.ac.cr/)
